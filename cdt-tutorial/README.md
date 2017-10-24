@@ -3,10 +3,10 @@ CDT Docker Tutorial
 
 You can view:
 
-[presentation/index.html](Full presentation as an HTML slideshow)
+[Full presentation as an HTML slideshow](presentation/index.html)
 
-[presentation.pdf](Full presentation as a PDF slides)
+[Full presentation as a PDF slides](presentation.pdf)
 
-[tutorial/index.html](Tutorial sections as an HTML slideshow)
+[Tutorial sections as an HTML slideshow](tutorial/index.html)
 
-[tutorial.pdf](Tutorial sections as a PDF slides)
+[Tutorial sections as a PDF slides](tutorial.pdf)
