@@ -1,9 +1,9 @@
 CDT Docker Tutorial
--------------------
-
-Useful links
 ============
 
+
+Useful links
+------------
 [Docker](https://docker.com)
 
 [Dockerfile Documentation](https://docs.docker.com/engine/reference/builder/)
@@ -12,7 +12,7 @@ Useful links
 
 
 Materials from the tutorial
-===========================
+----------------------------
 
 [Full presentation as an HTML slideshow](presentation/index.html)
 
